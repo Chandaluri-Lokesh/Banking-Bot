@@ -31,6 +31,3 @@ MRU Bank is a web-based online banking system that enables users to manage trans
 - Enhanced security measures for user authentication.
 - API-based banking services integration.
 
-## Contact
-For queries, reach out to MRU Bank support or the development team.
-
